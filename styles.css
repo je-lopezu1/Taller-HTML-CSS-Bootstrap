@@ -1,0 +1,65 @@
+/*Styles go here*/
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: #5D94D6;
+}
+
+h3{
+    color: #95BCEB;
+}
+
+.avisoForm{
+    font-weight: bold;
+}
+
+a[href="https://millonarios.com.co "] {
+    color: blue;
+    font-style: italic;
+    font-size: large;
+}
+
+body{
+    background-color: #EFD89D;
+}
+
+.contenedor1{
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    columns:400px 2;
+    column-fill: initial;
+    column-gap: 10px;
+    border-radius: 5px;
+    background-color: #EFD89D;
+}
+
+.foto{
+    position: relative;
+    left: 50px;
+}
+
+.contenedor2{
+    display:  flex;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    columns:400px 2;
+    column-fill: initial;
+    column-gap: 10px;
+    border-radius: 5px;
+    background-color: #EFD89D;
+    justify-content: center;
+}
+
+.avisoForm{
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+}
